@@ -1,2 +1,2 @@
 # Pencil-Sketch
-Pencil Sketch creation from an image
+Pencil Sketch creation from an image using Python
